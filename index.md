@@ -44,5 +44,6 @@ A decolonial approach to infrastructure and technological development, centring 
 
 > [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
 
+_____
 
 _Thanks for stopping by! I'm always open to new ideas, and good conversations_
