@@ -18,7 +18,7 @@ The map was first used as a diagnostic tool with the research team. Rather than 
 
 The same map was then adapted into a structured presentation for municipality officials, translating the typology framework into a format that supported strategic decision-making. By contextualizing Amsterdam's existing trash strategies within the identified typologies and underlying systemic factors, it enabled officials to assess which approaches were transferable to other parts of the city and which were specific to De Wallen's conditions.
 
-<iframe src="https://jjcoronal.kumu.io/system-map-tool" width="1024" height="576" frameborder="0"></iframe>
+<iframe src="https://jjcoronal.kumu.io/system-map-tool" width="512" height="238" frameborder="0"></iframe>
 
 
 
