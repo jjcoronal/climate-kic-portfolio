@@ -13,7 +13,7 @@ layout: default
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
 ---
-## [Artifact 1: Systems Map and Waste Typologies](page-1.md)
+## [Artifact 1: Systems Map](page-1.md)
 ### [Project: Clean Inner City Living Lab](page-1.md)
 
 A phased participatory research framework designed to shift understanding from individual to systemic responsibility in contested urban space, producing a replicable methodology for embodied stakeholder engagement that surfaced hidden infrastructures and challenged dominant narratives through structured hands-on inquiry across nine co-designed tours.
