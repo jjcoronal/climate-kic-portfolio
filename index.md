@@ -17,8 +17,8 @@ layout: default
 ---
 ## Living Lab Method & Participatory Processes
 
-### [Clean Inner City Living Lab: System Map & Presentation](page-1.md)
-#### Systems Map and Waste Typology Matrix
+### [Clean Inner City Living Lab](page-1.md)
+#### Systems Map and Waste Typologies
 
 A participatory systems map built from 30+ stakeholder interviews that gave five institutional partners their first shared reference for how Amsterdam's waste ecosystem actually operated, enabling municipal officials to identify intervention priorities and researchers to redesign their work packages toward implementation-relevant questions.
 
