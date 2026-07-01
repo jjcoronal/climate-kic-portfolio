@@ -15,11 +15,12 @@ As evidence of the sensemaking process, the following documentary portrays a hum
 
 <iframe width="470" height="300" src="https://www.youtube.com/embed/vYtQDY0s4oE?si=hQ5tJshMkGOtOmPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 ##### Waste Typologies
 
 Waste typologies were classified into a visual framework that mapped each type to its systemic drivers, operational constraints, and governance gaps within Amsterdam's inner city waste ecosystem.
 
-<img src="assets/img/1.png" alt="Alt Text" width="200" height="300"><img src="assets/img/2.png" alt="Alt Text" width="200" height="300"><img src="assets/img/3.png" alt="Alt Text" width="200" height="280"><img src="assets/img/4.png" alt="Alt Text" width="200" height="270"><img src="assets/img/5.png" alt="Alt Text" width="200" height="300">
+<img src="assets/img/1.png" alt="Alt Text" width="200" height="300"><img src="assets/img/2.png" alt="Alt Text" width="200" height="300"><img src="assets/img/4.png" alt="Alt Text" width="200" height="270"><img src="assets/img/5.png" alt="Alt Text" width="200" height="300">
 
 ##### System Map
 The research revealed that the municipality does not yet have a visual overview of how the waste system operates in reality and where the challenges lie. This led to create the system map and typology matrix, which seek to translate reality into a physical representation of what is happening on the streets by identifying patterns configurations of trash on the streets and linking them to 30+ stakeholder interviews. It gave municipal and academic partners their first shared reference for Amsterdam's City Center waste ecosystem, enabling identification of leverage points and redirecting the research agenda towards implementation-related questions.
