@@ -15,6 +15,14 @@ layout: default
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
 ---
+# Living Lab Method & Participatory Processes
+
+### [Clean Inner City Living Lab: System Map & Presentation](page-1.md)
+
+A systems map used first to realign a research agenda toward implementation-relevant questions, then adapted to help municipality officials evaluate the transferability of waste strategies across different urban contexts.
+
+> [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
+
 
 # Facilitation & Sensemaking
 
@@ -24,13 +32,6 @@ layout: default
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
-# Living Lab Method & Participatory Processes
-
-### [Clean Inner City Living Lab: System Map & Presentation](page-1.md)
-
-A systems map used first to realign a research agenda toward implementation-relevant questions, then adapted to help municipality officials evaluate the transferability of waste strategies across different urban contexts.
-
-> [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
 # Systems Research & Urban Governance
 
