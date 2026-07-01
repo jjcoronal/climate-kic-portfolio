@@ -16,7 +16,7 @@ layout: default
 ## [Artifact: Systems Map and Waste Typologies](page-1.md)
 ### [Project: Clean Inner City Living Lab](page-1.md)
 
-A participatory systems map built from 30+ stakeholder interviews that gave five institutional partners their first shared reference for how Amsterdam's waste ecosystem actually operated, enabling municipal officials to identify intervention priorities and researchers to redesign their work packages toward implementation-relevant questions.
+A phased participatory research framework designed to shift understanding from individual to systemic responsibility in contested urban space, producing a replicable methodology for embodied stakeholder engagement that surfaced hidden infrastructures and challenged dominant narratives through structured hands-on inquiry across nine co-designed tours.
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
 > 
