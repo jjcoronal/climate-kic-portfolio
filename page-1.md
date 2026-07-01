@@ -2,8 +2,8 @@
 layout: default
 ---
 
-### Clean Inner City Living Lab
-#### Schone Binnenstad Living Lab
+## Clean Inner City Living Lab
+### Schone Binnenstad Living Lab
 
 ##### Introduction 
 
