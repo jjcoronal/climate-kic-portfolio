@@ -19,7 +19,7 @@ layout: default
 A participatory systems map built from 30+ stakeholder interviews that gave five institutional partners their first shared reference for how Amsterdam's waste ecosystem actually operated, enabling municipal officials to identify intervention priorities and researchers to redesign their work packages toward implementation-relevant questions.
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
-
+> 
 >
 ---
 ## [Artifact: Participatory Research Framework and Journey Map](page12.md)
@@ -29,9 +29,7 @@ A participatory research framework using embodied, place-based methods across ni
 
 > [<img src="assets/img/thesis/conceptualfw.png" alt="Alt Text" width="570" height="450">](page12.md)
 > 
-> [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
-
-
+> 
 ---
 ## [Artifact: Systems and Flow Diagrams](page2.md)
 ### [Project: Death-Related Institutions in the Dutch Context](page2.md)
@@ -39,7 +37,8 @@ A participatory research framework using embodied, place-based methods across ni
 A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural inequities invisible to standard urban planning frameworks, enabling identification of leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
-
+>
+>  
 _____
 
 _Thanks for stopping by! I'm always open to new ideas, and good conversations_
