@@ -34,7 +34,7 @@ A collaborative field investigation into waste perception and management in De W
 
 # Systems Research & Urban Governance
 
-### [The Ex[cease]tance](page2.md)
+### [Death-Related Institutions in the Dutch Context](page2.md)
 
 A spatial and institutional analysis of burial infrastructure in Amsterdam, examining how urban planning decisions embed cultural hierarchies and remove death from everyday life. The work maps the intersection of religious belief, logistical operations, and colonial inheritance embedded in how cities manage bodies.
 
