@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-> _Systems thinker, occasional overcomplicator, reliable simplifier. Come take a look at my work._
+> _Systems thinker and occasional overcomplicator. Come take a look at my work._
 >
 > _Three artifacts are shown here. Each one is a system I tried to understand well enough to make useful to someone else. The one-sentence summary tells you what decision it enabled, which is probably what you're looking for. If you're curious about how it actually happened, the detours, the redesigns, and the moments where the map didn't match the territory, click through!_
 >
