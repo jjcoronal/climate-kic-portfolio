@@ -25,7 +25,7 @@ A participatory systems map built from 30+ stakeholder interviews that gave five
 
 A participatory research framework using embodied, place-based methods across nine co-designed tours that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges and offers a replicable model for researchers and practitioners working toward participatory urban futures.
 
-> [<img src="assets/img/thesis/Defensa-80.png" alt="Alt Text" width="300" height="200">](page12.md)[<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
+> [<img src="assets/img/thesis/Defense-80.png" alt="Alt Text" width="300" height="200">](page12.md)[<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
 ## [Artifact: Systems and Flow Diagrams](page2.md)
 ### [Project: Death-Related Institutions in the Dutch Context](page2.md)
