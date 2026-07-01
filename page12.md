@@ -47,8 +47,9 @@ The researcher's own positionality was made visible as a methodological instrume
 The process produced patterns, tensions, and insights that emerged from situated participatory inquiry and fed directly into what critical walking methodologies need to have for better stakeholder alignment around contested urban dynamics.
 ![image](assets/img/thesis/Thesis_7.jpg)
 ![image](assets/img/thesis/Thesis_8.jpg)
-<img src="assets/img/thesis/TT4_1.jpeg" alt="Alt Text" width="300" height="450">
-<img src="assets/img/thesis/Collage_TT9.jpeg" alt="Alt Text" width="300" height="450">
+<img src="assets/img/thesis/TT4_1.jpeg" alt="Alt Text" width="600" height="900">
+
+<img src="assets/img/thesis/Collage_TT9.jpeg" alt="Alt Text" width="600" height="900">
 
 
 
