@@ -15,7 +15,7 @@ The research revealed that the municipality does not yet have a visual overview 
 
 The map was first used as a diagnostic tool with the research team. Rather than presenting findings, it was brought into working sessions as a live reference that researchers could interrogate against their own proposals, surfacing gaps between academic assumptions and operational reality and redirecting work packages toward questions with actual implementation value.
 
-<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="470" height="300" frameborder="0"></iframe> 
+<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe> 
 
 This visualization unpacks the journey of waste, from individual choices and behaviors to the challenges of storage, collection, and disposal in this dense urban area. It serves as an exploration for those interested in deepening their knowledge about waste in De Wallen. In this case, AMS Institute provided the system map and a documentary to both TU Delft and WUR researchers to jumpstart their research projects for the three pilot projects: Waste flows out of the system, multifunctional waste points, and integrated waste and cleaning services.
 
