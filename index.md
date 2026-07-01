@@ -38,7 +38,7 @@ A research methodology designed as a participatory sensemaking process: nine cri
 
 ### [Death-Related Institutions in the Dutch Context](page2.md)
 
-A spatial and institutional analysis of burial infrastructure in Amsterdam, examining how urban planning decisions embed cultural hierarchies and remove death from everyday life. The work maps the intersection of religious belief, logistical operations, and colonial inheritance embedded in how cities manage bodies.
+A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
