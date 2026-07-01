@@ -31,12 +31,11 @@ Documents how participants were positioned as co-researchers, not subjects, and 
 ![image](assets/img/thesis/mapa.png)
 ![image](assets/img/thesis/actividades.png)
 
-##### autoethnography and positionality
+##### Autoethnography and positionality
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 
 #### Walk results 
 ![image](assets/img/thesis/Thesis_7.jpg)
-
 ![image](assets/img/thesis/Thesis_8.jpg)
 
 #### Epilogue 
