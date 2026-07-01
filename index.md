@@ -28,7 +28,7 @@ layout: default
 
 ### [Clean Inner City Living Lab](page-1.md)
 
-A collaborative field investigation into waste perception and management in De Wallen, Amsterdam. Working with residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
+A participatory systems map built from waste perception and management in De Wallen, Amsterdam. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
