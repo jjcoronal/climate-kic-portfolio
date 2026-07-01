@@ -28,7 +28,8 @@ A systems map used first to realign a research agenda toward implementation-rele
 
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-How do you mobilise diverse groups around complex, uncomfortable urban challenges? This thesis used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
+How do you mobilise diverse groups around complex, uncomfortable urban challenges?  
+A research methodology designed as a participatory sensemaking process: nine critical walking tours through De Wallen, structured across three co-creation phases, using tourism as both the medium and the object of inquiry. This work used toxic tours in Amsterdam's Red-Light District to turn waste (a problem people avoid) into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
