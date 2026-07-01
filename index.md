@@ -32,7 +32,7 @@ A participatory research framework using embodied, place-based methods across ni
 > 
 ---
 ## [Artifact 3: Systems and Flow Diagrams](page2.md)
-### [Project: Death-Related Institutions in the Dutch Context](page2.md)
+### [Project: Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
 
 A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural inequities invisible to standard urban planning frameworks, enabling identification of leverage points where governance redesign and ecological alternatives intersect.
 
