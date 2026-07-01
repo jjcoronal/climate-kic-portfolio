@@ -20,14 +20,18 @@ A participatory systems map built from 30+ stakeholder interviews that gave five
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
 
+---
 ## [Artifact: Participatory Research Framework and Journey Map](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
 A participatory research framework using embodied, place-based methods across nine co-designed tours that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges and offers a replicable model for researchers and practitioners working toward participatory urban futures.
 
-> [<img src="assets/img/thesis/conceptualfw.png" alt="Alt Text" width="570" height="400">](page12.md)
+> [<img src="assets/img/thesis/conceptualfw.png" alt="Alt Text" width="570" height="450">](page12.md)
+> 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
+
+---
 ## [Artifact: Systems and Flow Diagrams](page2.md)
 ### [Project: Death-Related Institutions in the Dutch Context](page2.md)
 
