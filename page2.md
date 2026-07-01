@@ -2,16 +2,15 @@
 layout: default
 ---
 
-## The Ex[cease]tance
-### Reevaluating Death-Related Institutions in the Dutch Context
 
-#### The work at hand mapped intersecting logistical, institutional, and cultural systems to surface structural barriers to alternative burial practice adoption, enabling course team to identify leverage points for policy intervention.
+## Reevaluating Death-Related Institutions in the Dutch Context
+### The work at hand mapped intersecting logistical, institutional, and cultural systems to surface structural barriers to alternative burial practice adoption, enabling course team to identify leverage points for policy intervention.
 
 As of 2024 Amsterdam has 1,182,000 inhabitants and 180 different nationalities
 
 > <img src="assets/img/exceasetance/visualizing-amsterdams-diverse-migrational-backgrounds.jpg" alt="Alt Text" width="400" height="400">
 
-####### The map within The Ex(cease)tance illustrates the scarcity and spatial distribution of cemeteries in compact cities like Amsterdam. Due to high urban density and limited land availability, cemeteries are predominantly located in peripheral areas, pushing burial practices away from the urban fabric and daily life. This spatial marginalization reflects a broader societal tendency to remove death from cotidianeity, treating it as an exceptional event rather than an integrated part of human experience. This alienation of death within the cityscape results in a lack of everyday spaces for mourning, reflection, and connection with those who have passed.
+####### The map within this research illustrates the scarcity and spatial distribution of cemeteries in compact cities like Amsterdam. Due to high urban density and limited land availability, cemeteries are predominantly located in peripheral areas, pushing burial practices away from the urban fabric and daily life. This spatial marginalization reflects a broader societal tendency to remove death from cotidianeity, treating it as an exceptional event rather than an integrated part of human experience. This alienation of death within the cityscape results in a lack of everyday spaces for mourning, reflection, and connection with those who have passed.
 
 > <img src="assets/img/exceasetance/Fig1_JJCL.png" alt="Alt Text" width="600" height="400">
 
