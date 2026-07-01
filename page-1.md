@@ -9,6 +9,12 @@ layout: default
 
 A participatory systems map built from waste perception and management in De Wallen, Amsterdam. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
 
+##### Documentary
+
+As evidence of the sensemaking process, the following documentary portrays a human perspective of De Wallen's waste problem: the way it was lived, problematised, and collectively reframed. It showcases the starting point from which the waste typologies stemmed, the co-creation process undergone with the residents, and the way in which it was used as a shared reference artifact that aligned municipal and academic partners on the system's actual dynamics before intervention priorities were defined.
+
+<iframe width="470" height="300" src="https://www.youtube.com/embed/vYtQDY0s4oE?si=hQ5tJshMkGOtOmPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##### Waste Typologies
 
 Waste typologies were classified into a visual framework that mapped each type to its systemic drivers, operational constraints, and governance gaps within Amsterdam's inner city waste ecosystem.
