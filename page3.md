@@ -8,7 +8,7 @@ layout: default
 
 Arturo Escobar (2018) argues that the rationalistic tradition shapes Western institutions and reinforces ontological dualism, which separates the natural and social worlds. This worldview, known as the One-World World (OWW), prioritizes the individual, science, the economy, and the real, privileging certain ways of knowing while marginalizing others. As a result, human perception of reality is predetermined by Eurocentric norms.
 
-Escobar sees this as a consequence of Eurocentric ontological design, where Western thought dominates alternative cosmologies. To challenge this, he advocates for embracing the Pluriverse—a world where multiple ways of knowing and being coexist. Liberating design from Western constraints would allow for more inclusive approaches that reflect diverse cultural and epistemic contexts.
+Escobar sees this as a consequence of Eurocentric ontological design, where Western thought dominates alternative cosmologies. To challenge this, he advocates for embracing the Pluriverse "a world where many worlds exist". Liberating design from Western constraints would allow for more inclusive approaches that reflect diverse cultural and epistemic contexts.
 
 
 **Concept Map**
