@@ -20,6 +20,7 @@ A participatory systems map built from 30+ stakeholder interviews that gave five
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
 
+>
 ---
 ## [Artifact: Participatory Research Framework and Journey Map](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
