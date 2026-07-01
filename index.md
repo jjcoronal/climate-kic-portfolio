@@ -13,7 +13,7 @@ layout: default
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
 ---
-## [Artifact: Systems Map and Waste Typologies](page-1.md)
+## [Artifact 1: Systems Map and Waste Typologies](page-1.md)
 ### [Project: Clean Inner City Living Lab](page-1.md)
 
 A phased participatory research framework designed to shift understanding from individual to systemic responsibility in contested urban space, producing a replicable methodology for embodied stakeholder engagement that surfaced hidden infrastructures and challenged dominant narratives through structured hands-on inquiry across nine co-designed tours.
@@ -22,7 +22,7 @@ A phased participatory research framework designed to shift understanding from i
 > 
 >
 ---
-## [Artifact: Participatory Research Framework and Journey Map](page12.md)
+## [Artifact 2: Participatory Research Framework and Journey Map](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
 A participatory research framework using embodied, place-based methods across nine co-designed tours that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges and offers a replicable model for researchers and practitioners working toward participatory urban futures.
@@ -31,7 +31,7 @@ A participatory research framework using embodied, place-based methods across ni
 > 
 > 
 ---
-## [Artifact: Systems and Flow Diagrams](page2.md)
+## [Artifact 3: Systems and Flow Diagrams](page2.md)
 ### [Project: Death-Related Institutions in the Dutch Context](page2.md)
 
 A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural inequities invisible to standard urban planning frameworks, enabling identification of leverage points where governance redesign and ecological alternatives intersect.
