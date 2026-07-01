@@ -22,7 +22,7 @@ layout: default
 
 A participatory systems map built from 30+ stakeholder interviews that gave five institutional partners their first shared reference for how Amsterdam's waste ecosystem actually operated, enabling municipal officials to identify intervention priorities and researchers to redesign their work packages toward implementation-relevant questions.
 
-> [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
+> [<iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>](page-1.md)
 
 
 ## Facilitation & Sensemaking
