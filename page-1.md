@@ -11,7 +11,7 @@ A participatory systems map built from waste perception and management in De Wal
 
 ##### Documentary
 
-As evidence of the sensemaking process, the following documentary portrays a human perspective of De Wallen's waste problem: the way it was lived, problematised, and collectively reframed. It showcases the starting point from which the waste typologies stemmed, the co-creation process undergone with the residents, and the way in which it was used as a shared reference artifact that aligned municipal and academic partners on the system's actual dynamics before intervention priorities were defined.
+As evidence of the sensemaking process, the following documentary portrays a human perspective of De Wallen's waste problem: the way it was lived, problematised, and collectively reframed. It showcases the starting point from which the waste typologies stemmed, the co-creation process undergone with the residents, and the way in which it was used as a shared reference artifact that aligned municipal and academic partners on the system's actual dynamics before intervention priorities were defined. The workshop facilitation can be found at minite 6:10.
 
 <iframe width="470" height="300" src="https://www.youtube.com/embed/vYtQDY0s4oE?si=hQ5tJshMkGOtOmPq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
