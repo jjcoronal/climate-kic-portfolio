@@ -5,7 +5,7 @@ layout: default
 ## Picking Up the Red-Light District:
 ### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
-A research methodology designed as a participatory sensemaking process: nine critical walking tours through De Wallen, structured across three co-creation phases, using tourism as both the medium and the object of inquiry.
+A phased participatory research framework designed to surface community knowledge and align diverse stakeholders around contested urban dynamics, producing replicable methodology for public engagement in complex systems.
 
 #### Cover
 <img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
