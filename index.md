@@ -15,7 +15,7 @@ layout: default
 
 ### [Clean Inner City Living Lab: System Map & Presentation](page-1.md)
 
-A systems map used first to realign a research agenda toward implementation-relevant questions, then adapted to help municipality officials evaluate the transferability of waste strategies across different urban contexts.
+A participatory systems map built from 30+ stakeholder interviews that gave five institutional partners their first shared reference for how Amsterdam's waste ecosystem actually operated, enabling municipal officials to identify intervention priorities and researchers to redesign their work packages toward implementation-relevant questions.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
@@ -24,7 +24,7 @@ A systems map used first to realign a research agenda toward implementation-rele
 
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-A research methodology designed as a participatory sensemaking process: nine critical walking tours through De Wallen, structured across three co-creation phases, using tourism as both the medium and the object of inquiry. This work used toxic tours in Amsterdam's Red-Light District to turn waste into a shared object of inquiry, demonstrating how designed experiences can shift collective understanding from individual responsibility to systemic accountability.
+A participatory research framework using embodied, place-based methods across nine co-designed tours that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges and offers a replicable model for researchers and practitioners working toward participatory urban futures.
 
 > [<img src="assets/img/thesis/IMG_6233.jpeg" alt="Alt Text" width="300" height="200">](page12.md)
 
@@ -33,7 +33,7 @@ A research methodology designed as a participatory sensemaking process: nine cri
 
 ### [Death-Related Institutions in the Dutch Context](page2.md)
 
-A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points where governance redesign and ecological alternatives intersect.
+A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural inequities invisible to standard urban planning frameworks, enabling identification of leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
