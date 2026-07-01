@@ -26,9 +26,9 @@ layout: default
 
 # Living Lab Method & Participatory Processes
 
-### [Clean Inner City Living Lab](page-1.md)
+### [Clean Inner City Living Lab: System Map & Presentation](page-1.md)
 
-A participatory systems map built from waste perception and management in De Wallen, Amsterdam. Working with +30 stakeholder interviews from residents, workers, and municipal stakeholders, the project produced a system map and typology matrix that gave policymakers and researchers a visual tool to understand how the waste system actually operates on the street, bridging the gap between designed infrastructure and lived reality.
+A systems map used first to realign a research agenda toward implementation-relevant questions, then adapted to help municipality officials evaluate the transferability of waste strategies across different urban contexts.
 
 > [<img src="assets/img/20241028_110616.jpg" alt="Alt Text" width="300" height="200">](page-1.md)
 
