@@ -11,6 +11,8 @@ A participatory systems map built from waste perception and management in De Wal
 
 ##### Waste Typologies
 
+<img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
+
 ##### System Map
 The research revealed that the municipality does not yet have a visual overview of how the waste system operates in reality and where the challenges lie. This led to create the system map and typology matrix, which seek to translate reality into a physical representation of what is happening on the streets by identifying patterns configurations of trash on the streets and linking them to 30+ stakeholder interviews. It gave municipal and academic partners their first shared reference for Amsterdam's City Center waste ecosystem, enabling identification of leverage points and redirecting the research agenda towards implementation-related questions.
 
