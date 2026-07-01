@@ -38,12 +38,6 @@ A spatial and institutional analysis of burial infrastructure in Amsterdam, exam
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
-### [Raindrops of Change](page3.md)
-
-A decolonial approach to infrastructure and technological development, centring non-Western knowledge systems as legitimate frameworks for niche innovation and sustainable transitions.
-
-> [<img src="assets/img/DecolonialNicheInnovations.jpg" alt="Alt Text" width="280" height="200">](page3.md)
-
 _____
 
 _Thanks for stopping by! I'm always open to new ideas, and good conversations_
