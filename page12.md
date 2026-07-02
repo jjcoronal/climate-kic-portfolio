@@ -51,11 +51,13 @@ The process produced patterns, tensions, and insights that emerged from situated
 ##### Toxic Tour 4 Photographic Documentation
 ![image](assets/img/thesis/TT4_1.jpeg)
 
-
 ##### Toxic Tour 9 Photographic Documentation
 ![image](assets/img/thesis/Collage_TT9.jpeg)
 
+#### Research Process
+![image](assets/img/thesis/research-process.jpg)
 
+This timeline documents the research process as it actually unfolded across nine toxic tour iterations, not as it was planned. Each tour generated findings that informed the design of the next, while research streams were added, adjusted, and layered in response to what participants and the process surfaced.
 
 #### Epilogue 
 ![image](assets/img/thesis/Thesis_10.jpg)
