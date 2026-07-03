@@ -5,7 +5,7 @@ layout: default
 ## Picking Up the Red-Light District:
 ### Utilizing Toxic Tours as a method for Research-Driven Tourism and Stakeholder Engagement in addressing waste in the De Wallen District
 
-A research methodology designed as an embodied sensemaking process: nine critical walking tours through Amsterdam's Red-Light District, structured across three co-creation phases, using tourism as both the medium and the object of inquiry. The research produced five recurring patterns of learning showing how playfulness, real-time reflection, and iterative design unlock systemic understanding in ways that traditional research rarely achieves.
+A research methodology designed as an embodied sensemaking process. The work went about nine critical walking tours through Amsterdam's Red-Light District, structured across three co-creation phases, using tourism as both the medium and the object of inquiry. The research produced five recurring patterns of learning showing how playfulness, real-time reflection, and iterative design unlock systemic understanding in ways that traditional research rarely achieves.
 
 #### Cover
 <img src="assets/img/thesis/FinalThesis_.jpg" alt="Alt Text" width="300" height="450">
@@ -15,16 +15,15 @@ A research methodology designed as an embodied sensemaking process: nine critica
 ![image](assets/img/thesis/Thesis_3.jpg)
 
 #### Problem contextualization
-Situates the intervention within Amsterdam's Red Light District governance dynamics and complex identity, giving reference for why existing tourism is commonly associated with trash and seen as undesireable, and why management approaches fail to address underlying systemic tensions.
+The following section situates the intervention within Amsterdam's Red Light District governance dynamics and complex identity, giving reference for why existing tourism is commonly associated with trash and seen as undesireable, and why management approaches fail to address underlying systemic tensions.
 
 ![image](assets/img/thesis/FinalThesis_4.jpg)
 
 #### Conceptual models
-Conceives the use of toxic tours as devices that can harvest participant knowledge at different scales, starting from embodied experience and connecting it into dominant systems.
+Here, the work conceives the use of toxic tours as devices that can harvest participant knowledge at different scales, starting from embodied experience and connecting it into dominant systems.
 ![image](assets/img/thesis/FinalThesis_5.jpg)
 
 #### Methodology 
-Documents how each phase was designed to build on the previous one, creating an adaptive but structured process that could respond to what participants actually surfaced rather than what was anticipated.
 
 <img src="assets/img/thesis/metodos.png" alt="Alt Text" width="300" height="200">
 
@@ -39,7 +38,6 @@ Participants were positioned as co-researchers, not subjects.
 ![image](assets/img/thesis/actividades.png)
 
 ##### Autoethnography and positionality
-The researcher's own positionality was made visible as a methodological instrument, enabling the group to interrogate assumptions together rather than receive findings.
 
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 
@@ -49,9 +47,10 @@ The process produced patterns, tensions, and insights that emerged from situated
 ![image](assets/img/thesis/Thesis_8.jpg)
 
 #### Research Process
-![image](assets/img/thesis/research-prochess.png)
 
 This timeline documents the research process as it actually unfolded across nine toxic tour iterations, not as it was planned. Each tour generated findings that informed the design of the next, while research streams were added, adjusted, and layered in response to what participants and the process surfaced.
+
+![image](assets/img/thesis/research-prochess.png)
 
 #### Epilogue 
 ![image](assets/img/thesis/Thesis_10.jpg)
