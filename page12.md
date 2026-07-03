@@ -49,7 +49,7 @@ The process produced patterns, tensions, and insights that emerged from situated
 ![image](assets/img/thesis/Thesis_8.jpg)
 
 #### Research Process
-![image](assets/img/thesis/research-process.png)
+![image](assets/img/thesis/research-prochess.png)
 
 This timeline documents the research process as it actually unfolded across nine toxic tour iterations, not as it was planned. Each tour generated findings that informed the design of the next, while research streams were added, adjusted, and layered in response to what participants and the process surfaced.
 
