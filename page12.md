@@ -50,7 +50,7 @@ The process produced patterns, tensions, and insights that emerged from situated
 
 This timeline documents the research process as it actually unfolded across nine toxic tour iterations, not as it was planned. Each tour generated findings that informed the design of the next, while research streams were added, adjusted, and layered in response to what participants and the process surfaced.
 
-![image](assets/img/thesis/research-prochess.png)
+<img src="assets/img/thesis/research-prochess.png" alt="Alt Text" width="300" height="200">
 
 #### Epilogue 
 ![image](assets/img/thesis/Thesis_10.jpg)
