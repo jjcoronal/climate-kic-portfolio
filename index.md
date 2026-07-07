@@ -31,7 +31,7 @@ A participatory action research framework using embodied, place-based methods ac
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="330">](page12.md)
 > 
-##### _Toxic tour through De Wallen structure in accordance to KAOSPILOT's Learning Arches methodology_
+##### _Toxic tour structure in accordance to KAOSPILOT's Learning Arches methodology_
 ---
 ## [Artifact 3: System and Flow Diagrams](page2.md)
 ### [Project: Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
