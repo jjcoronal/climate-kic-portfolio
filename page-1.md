@@ -9,7 +9,7 @@ A participatory systems map built from waste perception and management in De Wal
 
 ##### Waste Typologies
 
-Waste typologies were classified into a visual framework that mapped each type to its systemic drivers, operational constraints, and governance gaps within Amsterdam's inner city waste ecosystem. Below are some examples.
+Ten waste typologies were classified into a visual framework that mapped each type to its systemic drivers, operational constraints, and governance gaps within Amsterdam's inner city waste ecosystem. Below are some examples of how they were grouped and evaluated across the project.
 
 <img src="assets/img/1.png" alt="Alt Text" width="200" height="300"><img src="assets/img/2.png" alt="Alt Text" width="200" height="300"><img src="assets/img/4.png" alt="Alt Text" width="200" height="287"><img src="assets/img/5.png" alt="Alt Text" width="200" height="287">
 
