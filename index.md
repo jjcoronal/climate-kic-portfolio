@@ -18,7 +18,7 @@ layout: default
 ## [Artifact 1: System Map](page-1.md)
 ### [Project: Clean Inner City Living Lab](page-1.md)
 
-This system map gave Amsterdam municipal stakeholders a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality and informing intervention priorities.
+This system map gave Amsterdam municipal stakeholders, and TU Delft and Wageningen researchers, a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality informing both intervention priorities and the conditions needed to scale applied research solutions.
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
 > 
@@ -27,7 +27,7 @@ This system map gave Amsterdam municipal stakeholders a shared visual reference 
 ## [Artifact 2: Participatory Research Framework](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-A participatory research framework using embodied, place-based methods across nine co-designed tours that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges and offers a replicable model for researchers and practitioners working toward participatory urban futures.
+A participatory action research framework using embodied, place-based methods across nine iterations of a co-designed critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
 > [<img src="assets/img/thesis/conceptualfw.png" alt="Alt Text" width="570" height="400">](page12.md)
 > 
