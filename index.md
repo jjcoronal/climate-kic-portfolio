@@ -29,7 +29,7 @@ This system map gave Amsterdam municipal stakeholders, and TU Delft and Wagening
 
 A participatory action research framework using embodied, place-based methods across nine iterations of a co-designed critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
-> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="400">](page12.md)
+> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="350">](page12.md)
 > 
 > 
 ---
