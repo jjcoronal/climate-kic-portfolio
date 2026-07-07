@@ -38,7 +38,10 @@ The design of the tour activities and photo missions came hand to hand with the 
 ![image](assets/img/thesis/mapa.png)
 ![image](assets/img/thesis/actividades.png)
 
+
 ##### Autoethnography and positionality
+
+By explicitly documenting the researcher's experience while carrying out the role a tour guide, co-creator and designer, the research allowed to incorporate explicit assumptions, hypotheses and uncertainties found through previous tour iterations. These entailed personal and professional beliefs, lived experience, and social and cultural norms which allowed to further reflect on how system factors that could communicated and how the reseach itself could inhibit change.
 
 ![image](assets/img/thesis/FinalThesis_6.jpg)
 
