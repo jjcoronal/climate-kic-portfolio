@@ -6,7 +6,9 @@ layout: default
 
 > _Systems thinker and occasional overcomplicator. Come take a look at my work._
 >
-> _Three artifacts are shown here. Each one is a system I tried to understand well enough to make useful to someone else. The one-sentence summary tells you what decision it enabled, which is probably what you're looking for. If you're curious about how it actually happened, the detours, and the redesigns, click through!_
+> _Three artifacts are shown here, each one is a system I tried to understand well enough to make useful to someone else. The one-sentence summary below tells you what decision it enabled._
+>
+> _If you're curious about how it actually happened, the detours, and the redesigns, click through!_
 >
 > <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
 
@@ -16,7 +18,7 @@ layout: default
 ## [Artifact 1: System Map](page-1.md)
 ### [Project: Clean Inner City Living Lab](page-1.md)
 
-A phased participatory research framework designed to shift understanding from individual to systemic responsibility in contested urban space, producing a replicable methodology for embodied stakeholder engagement that surfaced hidden infrastructures and challenged dominant narratives through structured hands-on inquiry across nine co-designed tours.
+This system map gave Amsterdam municipal stakeholders a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality and informing intervention priorities.
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
 > 
