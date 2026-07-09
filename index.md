@@ -21,9 +21,9 @@ layout: default
 This system map gave Amsterdam municipal stakeholders, and TU Delft and Wageningen researchers, a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality informing both intervention priorities and the conditions needed to scale applied research solutions.
 
 > <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe>
-> 
->
----
+
+<br>
+
 ## [Artifact 2: Participatory Research Framework](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
@@ -32,7 +32,9 @@ This framework used embodied, place-based methods across nine iterations of a cr
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="310">](page12.md)
 > 
 ##### _Toxic tour structure in accordance to KAOSPILOT's Learning Arches methodology_
----
+
+<br>
+
 ## [Artifact 3: System and Flow Diagrams](page2.md)
 ### [Project: Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
 
@@ -40,7 +42,7 @@ Sociotechnical analysis mapping spatial, logistical, and cultural interdependenc
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 >
->  
+<br>
 _____
 
 _Thanks for stopping by! I'm always open to new ideas, and good conversations_
