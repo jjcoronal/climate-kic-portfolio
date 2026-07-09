@@ -27,7 +27,7 @@ This system map gave Amsterdam municipal stakeholders, and TU Delft and Wagening
 ## [Artifact 2: Participatory Research Framework](page12.md)
 ### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
 
-A participatory action research framework using embodied, place-based methods across nine iterations of a co-designed critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
+This framework used embodied, place-based methods across nine iterations of a critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
 > [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="310">](page12.md)
 > 
@@ -36,7 +36,7 @@ A participatory action research framework using embodied, place-based methods ac
 ## [Artifact 3: System and Flow Diagrams](page2.md)
 ### [Project: Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
 
-A multi-system analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural inequities invisible to standard urban planning frameworks, enabling identification of leverage points where governance redesign and ecological alternatives intersect.
+Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 >
