@@ -2,16 +2,16 @@
 layout: default
 ---
 
-# Designing Social Infrastructure for Commuters
+# Business Model Canvas (BMC) Evolution Through Interview Pattern Mapping
 
-A four-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing a methodological pivot: reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumption-driven design to insight-driven strategy, ending with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
+A six-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing team members to pivot by reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumption-driven design to insight-driven strategy, ending with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
 
 ### Primary Artifact: Business Model Canvas Evolution
 
 ![image](assets/img/unmutecommute/BMC_Report.png)
 
-Research pattern analysis across 11 interviews revealed user motivation misalignment (boredom and surface-level connection, not loneliness), triggering strategic pivot from 'address loneliness' to 'foster happiness through casual interaction.' BMC evolution made this shift visible across product, value proposition, customer segments, and revenue model, enabling coherent cross-functional alignment on interdependent strategic changes.
-
+ As described earlier, the BMC evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused casual-interaction framing with corresponding alignment across product, value proposition, and market positioning.
+ 
 ### Supporting Analysis
 
 The assumption grid (below) identified which uncertainties were worth testing through research. Rather than validating every assumption equally, the framework revealed that user motivation, whether people actually wanted to talk to strangers, was both high-uncertainty and high-impact. This focused research effort.
@@ -25,7 +25,6 @@ Interview patterns (11 respondents across commuters and strangers) showed consis
 Market validation used GIS analysis to identify where the product would have the highest chance of adoption stations with passenger volume, frequent disruptions (natural moments of conversation), and existing commuting patterns. Amsterdam Central Station emerged as the optimal launch site.
 
 <img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="400" height="300"> <img src="assets/img/unmutecommute/Layout-trainlinesfinal.png" alt="Alt Text" width="400" height="300">
-
 
 ### Implementation Pathway
 
