@@ -15,8 +15,9 @@ layout: default
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
 ---
-## [Artifact 1: System Map](page-1.md)
-### [Project: Clean Inner City Living Lab](page-1.md)
+# Artifacts
+
+## [System Map of Amsterdam's Red Light District Trash](page-1.md)
 
 This system map gave Amsterdam municipal stakeholders, and TU Delft and Wageningen researchers, a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality informing both intervention priorities and the conditions needed to scale applied research solutions.
 
@@ -24,8 +25,7 @@ This system map gave Amsterdam municipal stakeholders, and TU Delft and Wagening
 
 <br>
 
-## [Artifact 2: Participatory Research Framework](page12.md)
-### [Picking Up De Wallen: Utilizing Toxic Tours as Research-Driven Tourism and Stakeholder Engagement](page12.md)
+## [Framework for Mobilizing Stakeholders Around Complex & Uncomfortable Urban Challenges](page12.md)
 
 This framework used embodied, place-based methods across nine iterations of a critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
@@ -35,8 +35,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
-## [Artifact 3: System and Flow Diagrams](page2.md)
-### [Project: Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
+## [System and Flow Diagrams](page2.md)
 
 Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
 
