@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-> _Systems thinker and occasional overcomplicator. Come take a look at my work._
+> _Systems thinker and occasional overcomplicator. I like to think about the broad systems in the world and understand how they impact us as different scales. Come take a look at my work._
 >
 > _Three artifacts are shown here, each one is a system I tried to understand well enough to make useful to someone else. The one-sentence summary below tells you what decision it enabled._
 >
