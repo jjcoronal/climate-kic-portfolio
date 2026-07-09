@@ -37,7 +37,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
-## [System and Flow Diagrams](page2.md)
+## [Sensemaking of Death in the Dutch Context](page2.md)
 
 Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
 
