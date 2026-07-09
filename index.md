@@ -44,4 +44,4 @@ Sociotechnical analysis mapping spatial, logistical, and cultural interdependenc
 <br>
 <br>
 
-_Don't forget to click through_
+_Happy to tell you more about my work and other projects in person!! :)_
