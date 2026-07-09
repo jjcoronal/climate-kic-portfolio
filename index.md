@@ -17,8 +17,6 @@ layout: default
 ---
 # Artifacts
 
-<br>
-
 ## [System Map of Amsterdam's Red Light District Trash](page-1.md)
 
 This system map gave Amsterdam municipal stakeholders, and TU Delft and Wageningen researchers, a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality informing both intervention priorities and the conditions needed to scale applied research solutions.
@@ -44,6 +42,6 @@ Sociotechnical analysis mapping spatial, logistical, and cultural interdependenc
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 >
 <br>
-_____
+<br>
 
-_Thanks for stopping by! I'm always open to new ideas, and good conversations_
+_Don't forget to click through_
