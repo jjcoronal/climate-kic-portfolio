@@ -40,7 +40,14 @@ This framework used embodied, place-based methods across nine iterations of a cr
 Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
->
+
+<br>
+
+## [Business Model Canvas Evolution (v0.1 → v0.2)](page6.md)
+
+Strategic pivot from 'address loneliness' to 'foster happiness through casual interaction' was informed by interview pattern analysis that revealed meaningful conversations were not users' primary motivation, realigning product design with actual user needs.
+
+> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="500" height="200">](page6.md)
 <br>
 <br>
 
