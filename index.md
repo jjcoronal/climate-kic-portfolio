@@ -41,13 +41,6 @@ Business Model Canvas evolution made visible how interview insights (users motiv
 
 > [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="400" height="280">](page6.md)
 <br>
-
-## [Making Sense of Death as a Socio-Technical System](page2.md)
-
-Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
-
-> [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
-
 <br>
 
 _Happy to tell you more about my work and other projects in person!! :)_
