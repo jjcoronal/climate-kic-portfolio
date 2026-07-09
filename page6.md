@@ -16,7 +16,7 @@ A six-week entrepreneurial sprint demonstrating how constraint-based iteration r
 
 The assumption grid (below) identified which uncertainties were worth testing through research. Rather than validating every assumption equally, the framework revealed that user motivation, whether people actually wanted to talk to strangers, was both high-uncertainty and high-impact. This focused research effort.
 
-<img src="assets/img/unmutecommute/assumptionunchanged.png" alt="Alt Text" width="300" height="400"> <img src="assets/img/unmutecommute/assumptionchange.png" alt="Alt Text" width="300" height="200">
+<img src="assets/img/unmutecommute/assumptionunchanged.png" alt="Alt Text" width="400" height="350"> <img src="assets/img/unmutecommute/assumptionchange.png" alt="Alt Text" width="400" height="230">
 
 Interview patterns (11 respondents across commuters and strangers) showed consistent findings: people engaged in spontaneous conversation for enjoyment and mental relief, not primarily for addressing loneliness. Many avoided initiation not from fear of rejection, but from not knowing how to begin. This reframed the product from "support mental health" to "enable easy connection."
 
@@ -31,7 +31,7 @@ Market validation used GIS analysis to identify where the product would have the
 #### Token (MVP)
 A token was developed as the Minimum Viable Product (MVP) in order to put the idea into action. The development og the MVP sparked hinderances during the user journey. Consequently, an [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) was developed as an digital complement of the MVP to unmute people's commute.
 
-<img src="assets/img/unmutecommute/prototypenew.png" alt="Alt Text" width="400" height="300"> <img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="400" height="300">
+<img src="assets/img/unmutecommute/prototypenew.png" alt="Alt Text" width="400" height="320"> <img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="400" height="300">
 
 
 [back](./)
