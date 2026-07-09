@@ -35,20 +35,19 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
+## [Business Model Canvas (BMC) Evolution Through Interview Pattern Mapping](page6.md)
+
+Business Model Canvas evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused interaction framing with corresponding alignment across product, value proposition, and market positioning.
+
+> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="400" height="220">](page6.md)
+<br>
+
 ## [Making Sense of Death as a Socio-Technical System](page2.md)
 
 Sociotechnical analysis mapping spatial, logistical, and cultural interdependencies in Amsterdam's burial infrastructure that surfaced structural invisible inequalities to standard end of life protocols, enabling the identification of leverage points where governance redesign and ecological alternatives intersect.
 
 > [<img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="500" height="200">](page2.md)
 
-<br>
-
-## [Business Model Canvas Evolution (v0.1 → v0.2)](page6.md)
-
-Strategic pivot from 'address loneliness' to 'foster happiness through casual interaction' was informed by interview pattern analysis that revealed meaningful conversations were not users' primary motivation, realigning product design with actual user needs.
-
-> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="500" height="200">](page6.md)
-<br>
 <br>
 
 _Happy to tell you more about my work and other projects in person!! :)_
