@@ -39,7 +39,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 Business Model Canvas evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused interaction framing with corresponding alignment across product, value proposition, and market positioning.
 
-> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="400" height="220">](page6.md)
+> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="400" height="280">](page6.md)
 <br>
 
 ## [Making Sense of Death as a Socio-Technical System](page2.md)
