@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Business Model Canvas (BMC) Evolution Through Interview Pattern Mapping
-###### Project was developed alongside 4 other teammates
+###### The project was developed in collaboration with four teammates.
 
 A six-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing team members to pivot by reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumptions into a strategy driven by insights. The sprint ended with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
 
