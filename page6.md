@@ -5,13 +5,13 @@ layout: default
 # Business Model Canvas (BMC) Evolution Through Interview Pattern Mapping
 ##### Team: Carlotta Hening, Ka Yi Chua, Yifan Yang
 
-A six-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing team members to pivot by reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumption-driven design to insight-driven strategy, ending with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
+A six-week entrepreneurial sprint demonstrating how constraint-based iteration refines problem definition and aligns strategy. Initial user research invalidated the core assumption (travel disruptions as a problem for cyclists), forcing team members to pivot by reframe the constraint, rebuild the hypothesis, and validate through rapid prototyping. The project illustrates the transition from assumptions into a strategy driven by insights. The sprint ended with a validated product ready for deployment. The work showcases systems thinking in complexity, collaborative alignment across misaligned stakeholders, and visual frameworks that enable strategic decision-making.
 
 ### Primary Artifact: Business Model Canvas Evolution
 
 ![image](assets/img/unmutecommute/BMC_Report.png)
 
-As described earlier, the BMC evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused casual-interaction framing with corresponding alignment across product, value proposition, and market positioning. Valid assumptions remain at the center of the boxes while old assumptions sit colorless at its margins.
+As described earlier, the BMC evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused casual-interaction framing with corresponding alignment across product, value proposition, and market positioning. Valid assumptions remain at the center of the boxes while old assumptions sit colorless on the sides.
  
 ### Supporting Analysis
 
