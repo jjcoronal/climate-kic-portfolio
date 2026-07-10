@@ -29,12 +29,5 @@ Market validation used GIS analysis to identify where the product would have the
 
 <img src="assets/img/unmutecommute/Layout_MCAfinal.png" alt="Alt Text" width="400" height="300"> <img src="assets/img/unmutecommute/Layout-trainlinesfinal.png" alt="Alt Text" width="400" height="300">
 
-### Implementation Pathway
-
-#### Token (MVP)
-A token was developed as the Minimum Viable Product (MVP) in order to put the idea into action. The development og the MVP sparked hinderances during the user journey. Consequently, an [online toolkit](https://unmutecommute.my.canva.site/unmutecommute) was developed as an digital complement of the MVP to unmute people's commute.
-
-<img src="assets/img/unmutecommute/prototypenew.png" alt="Alt Text" width="400" height="320"> <img src="assets/img/unmutecommute/web_1.png" alt="Alt Text" width="400" height="300">
-
 
 [back](./)
