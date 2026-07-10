@@ -5,13 +5,15 @@ layout: default
 ## Clean Inner City Living Lab
 ### Schone Binnenstad Living Lab
 
-The research revealed that the municipality does not yet have a visual overview of how the waste system operates in reality and where the challenges lie. This led to create the system map and typology matrix, which seek to translate reality into a physical representation of what is happening on the streets by identifying pattern configurations of trash on the streets and linking them to 30+ stakeholder interviews. It gave municipal and academic partners their first shared reference for Amsterdam's City Center waste ecosystem, enabling identification of leverage points and redirecting the research agenda towards the implementation of solutions through academic research.
+###### Timeline: Sept 2024–Dec 2024 · MSc MADE Living Lab course case (team of 4) → Jan 2025–Apr 2026 · continued into a paid position at AMS Institute
+
+The research revealed that the municipality does not yet have a visual overview of how the waste system operates in reality and where the challenges lie. This led to creating the system map and typology matrix, translating street-level reality into a physical representation of trash pattern configurations, linked to 30+ stakeholder interviews. It gave municipal and academic partners their first shared reference for Amsterdam's City Center waste ecosystem.
 
 ##### System Map
 
-The map was first used as a diagnostic tool with the research team and the municipality. It was brought into working sessions as a live reference that researchers could interrogate against their own proposals, surfacing gaps between assumptions and operational reality and redirecting work packages toward questions with implementation value for the Municipality of Amsterdam.
+The map was first used as a diagnostic tool in working sessions with the research team and the municipality. It served as a live reference researchers could interrogate against their own proposals, surfacing gaps between assumptions and reality.
 
-As the project matured and the problem framing stabilized, more granular scales of analysis became reachable. It then absorbed new findings, and progressively pressure-tested each research proposal against ground-level conditions as they emerged. Altogether the map identified synergies, gaps, leverage points, and risks across work packages, maximizing impact and reducing the chances of isolated failure from each of the experiments to be tested.
+As the project matured and problem framing stabilized, more granular scales of analysis became reachable. The map absorbed new findings and pressure-tested each research proposal against ground-level conditions as they emerged. With it, the map allowed to identify synergies, leverage points, and risks across work packages, and redirected the research agenda toward questions with real implementation value for the Municipality of Amsterdam.
 
 <iframe src="https://embed.kumu.io/c8831c515a7c4d2023fd3150483cdd0e" width="570" height="400" frameborder="0"></iframe> 
 
