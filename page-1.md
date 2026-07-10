@@ -5,8 +5,6 @@ layout: default
 ## Clean Inner City Living Lab
 ### Schone Binnenstad Living Lab
 
-##### Timeline: Sept 2024–Dec 2024 · MSc MADE Living Lab course case (team of 4) → Jan 2025–Apr 2026 · continued into a paid position at AMS Institute
-
 The research revealed that the municipality does not yet have a visual overview of how the waste system operates in reality and where the challenges lie. This led to creating the system map and typology matrix, translating street-level reality into a physical representation of trash pattern configurations, linked to 30+ stakeholder interviews. It gave municipal and academic partners their first shared reference for Amsterdam's City Center waste ecosystem.
 
 ##### System Map
