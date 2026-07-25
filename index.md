@@ -17,7 +17,7 @@ layout: default
 ---
 # Artifacts
 
-## [System Map of Amsterdam's Red Light District Trash](page-1.md)
+## [System map of the waste ecosystem in Amsterdam's Red Light District](page-1.md)
 
 This system map gave Amsterdam municipal stakeholders, and TU Delft and Wageningen researchers, a shared visual reference for how the waste system actually functions on the street, closing the gap between designed infrastructure and lived reality informing both intervention priorities and the conditions needed to scale applied research solutions.
 
@@ -25,7 +25,7 @@ This system map gave Amsterdam municipal stakeholders, and TU Delft and Wagening
 
 <br>
 
-## [Framework for Mobilizing Stakeholders Around Complex & Uncomfortable Urban Challenges](page12.md)
+## [Framework for mobilizing stakeholders around complex urban challenges](page12.md)
 
 This framework used embodied, place-based methods across nine iterations of a critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
@@ -35,7 +35,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
-## [Business Model Canvas (BMC) Evolution Through Interview Pattern Mapping](page6.md)
+## [Business Model Canvas (BMC) evolution through interview patterns](page6.md)
 
 Business Model Canvas evolution made visible how interview insights (users motivated by casual connection and boredom-relief, not loneliness) contradicted initial strategy, enabling pivot from mental-health to happiness-focused interaction framing with corresponding alignment across product, value proposition, and market positioning.
 
