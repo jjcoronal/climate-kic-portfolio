@@ -34,7 +34,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
-## [Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
+## [Reevaluating death-related institutions in the Dutch context](page2.md)
 
 A multi-layered systems analysis mapping logistical, institutional, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points for inclusive policy and design intervention.
 
