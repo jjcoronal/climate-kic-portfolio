@@ -35,11 +35,13 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 <br>
 
-## [Business Model Canvas (BMC) evolution through interview patterns](page6.md)
+## [Reevaluating Death-Related Institutions in the Dutch Context](page2.md)
 
 A multi-layered systems analysis mapping logistical, institutional, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points for inclusive policy and design intervention.
 
-> [<img src="assets/img/unmutecommute/BMC_Report.png" alt="Alt Text" width="570" height="360">](page6.md)
+> <img src="assets/img/exceasetance/Fig1_JJCL.png" alt="Alt Text" width="600" height="400">
+> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="600" height="300">
+
 <br>
 <br>
 
