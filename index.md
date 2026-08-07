@@ -28,7 +28,7 @@ This system map gave Amsterdam municipal stakeholders, and TU Delft and Wagening
 
 This framework used embodied, place-based methods across nine iterations of a critical walking tour that produced a five-pattern learning model, demonstrating how structured hands-on inquiry shifts participants from individual to systemic understanding of complex urban challenges.
 
-> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="310">](page12.md)
+> [<img src="assets/img/thesis/learning arches.png" alt="Alt Text" width="570" height="290">](page12.md)
 > 
 ##### _Toxic tour structure in accordance to KAOSPILOT's Learning Arches methodology_
 
@@ -38,7 +38,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 A multi-layered systems analysis mapping logistical, institutional, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points for inclusive policy and design intervention.
 
-> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="750" height="270">
+> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="750" height="250">
 
 <br>
 <br>
