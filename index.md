@@ -10,7 +10,7 @@ layout: default
 >
 > _If you're curious about how it actually happened, the detours, and the redesigns, click through!_
 >
-> <img src="assets/img/226D9A03-C16B-4302-A102-5B5306F4AE47_1_105_c.jpeg" alt="Alt Text" width="300" height="200">
+> <img src="assets/img/Portrait_JJCL.jpg" alt="Alt Text" width="100" height="200">
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
