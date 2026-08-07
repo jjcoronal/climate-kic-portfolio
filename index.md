@@ -14,7 +14,7 @@ layout: default
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
 ---
-#
+# Work
 
 ## [System map of the waste ecosystem in Amsterdam's Red Light District](page-1.md)
 
