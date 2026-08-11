@@ -15,7 +15,7 @@ The map below shows the scarcity and spatial distribution of cemeteries in Amste
 
 Emerging cosmogonies and progressive spiritual frameworks are reshaping how human beings understand their relationship to natural cycles. Where dominant Western traditions have treated death as separation, indigenous cosmologies and ecological spirituality increasingly frame it as reintegration: the body returning to the systems that sustained it. This shift has direct implications for how cities design burial infrastructure. More sustainable alternatives (natural burial, composting, water cremation) are not just technical innovations but responses to a changing cultural relationship between human life, death, and ecological continuity.
 
-> <img src="assets/img/exceasetance/Fig1_JJCL.png" alt="Alt Text" width="600" height="400">
+> <img src="assets/img/exceasetance/Fig1_JJCL.png" alt="Alt Text" width="700" height="300">
 
 The following Sankey diagram maps the movement of human bodies within burial processes, illustrating the intersection between religious beliefs, logistical operations, and spatial infrastructures. It maps where colonial logistical systems and accessibility disparities constrain individual choice, surfacing structural inequities embedded in how cities manage death across different communities.
 
