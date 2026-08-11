@@ -38,7 +38,7 @@ This framework used embodied, place-based methods across nine iterations of a cr
 
 A multi-layered systems analysis mapping logistical, institutional, and cultural interdependencies in Amsterdam's burial infrastructure, used to surface structural inequities and identify leverage points for inclusive policy and design intervention.
 
-> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="750" height="250">
+> <img src="assets/img/exceasetance/Fig3_JJCL-min.png" alt="Alt Text" width="700" height="250">
 
 <br>
 <br>
