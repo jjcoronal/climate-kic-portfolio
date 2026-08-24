@@ -10,6 +10,7 @@ layout: default
 >
 > _If you're curious about how it actually happened, the detours, and the redesigns, click through!_
 >
+> _More of my work is available [here](https://jjcoronal.github.io/portf0lio/)._
 
 ##### Reach out through [Linkedin](https://www.linkedin.com/in/juan-jose-corona/) or, if you want to learn about one of my hobbies, click [here](https://www.instagram.com/jjclucio).
 
